@@ -1,4 +1,4 @@
-function SingUp() {
+function SignUp() {
   const wrapper = document.querySelector('.wrapper')
   wrapper.style.display = 'none';
   const wrappersingup = document.querySelector('.wrappersingup')
